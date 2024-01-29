@@ -7,17 +7,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
 
-# GitHub Pages settings
-remote_theme: "jekyll/minimal"
-
-# Additional settings
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - _config.yml
-  - README.md
 
