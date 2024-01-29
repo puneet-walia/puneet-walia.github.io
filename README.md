@@ -1,3 +1,5 @@
+[Link to New Page](newpage.md)
+
 ## About me
 I am Puneet Walia, a tech enthusiast who is enthusiastic about learning new things about coding and development and is determined to doing so. With a passion for mathematics and problem-solving. I'm currently pursuing my Bachelor's degree in Information Technology at Guru Nanak Dev Engineering College,Ludhiana.
 
