@@ -1,5 +1,23 @@
+# _config.yml
+
+# Site settings
 title: Puneet Walia
-#logo: /assets/img/headshot_circle.png
-description: text below image
-show_downloads: true
+description: A portfolio website for showcasing my projects and resume.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+remote_theme: "jekyll/minimal"
+
+# Additional settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _config.yml
+  - README.md
+
