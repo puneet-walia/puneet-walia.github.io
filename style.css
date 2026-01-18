@@ -48,7 +48,7 @@ li {
 }
 
 a {
-	color: green;
+	color: purple;
 	text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ a:active, a:focus, a:hover {
 }
 
 a:visited {
-	color: green;
+	color: purple;
 }
 
 u {
